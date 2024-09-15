@@ -9,7 +9,7 @@
             ]
         },
         "input": "A number of alignment techniques have been proposed , varying from statistical methods ( #REF ; #TARGET_REF ) to lexical methods ( #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -21,7 +21,7 @@
             ]
         },
         "input": "Only a few such corpora exist , including the Hansard English-French corpus and the HKUST EnglishChinese corpus ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -33,7 +33,7 @@
             ]
         },
         "input": "A number of alignment techniques have been proposed , varying from statistical methods ( #REF ; #REF ) to lexical methods ( #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -45,7 +45,7 @@
             ]
         },
         "input": "For example , it would be helpful to consider strong correspondence between certain English and Chinese words , as in ( #TARGET_REF ) .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -57,7 +57,7 @@
             ]
         },
         "input": "A number of alignment techniques have been proposed , varying from statistical methods ( #TARGET_REF ; #REF ) to lexical methods ( #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -69,7 +69,7 @@
             ]
         },
         "input": "Robust natural language understanding in Atlas-Andes is provided by RosÃ© 's CARMEL system ( RosÃ© 2000 ) ; it uses the spelling correction algorithm devised by #TARGET_REF .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -81,7 +81,7 @@
             ]
         },
         "input": "2 See ( #TARGET_REF ) for how MIMIC 's dialoguelevel knowledge is used to override default prosodic assignments for concept-to-speech generation .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -93,7 +93,7 @@
             ]
         },
         "input": "The strategies employed when MIMIC has only dialogue initiative are similar to the mixed initiative dialogue strategies employed by many existing spoken dialogue systems ( e.g. , ( #REF ; #TARGET_REF ) ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -105,7 +105,7 @@
             ]
         },
         "input": "Previous work has argued that initiative affects the degree of control an agent has in the dialogue interaction ( #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -117,7 +117,7 @@
             ]
         },
         "input": "Previous work has argued that initiative affects the degree of control an agent has in the dialogue interaction ( #TARGET_REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -129,7 +129,7 @@
             ]
         },
         "input": "A companion paper describes the evaluation process and results in further detail ( #TARGET_REF ) .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -141,7 +141,7 @@
             ]
         },
         "input": "5An alternative strategy to step ( 4 ) is to perform a database lookup based on the ambiguous query and summarize the results ( #TARGET_REF ) , which we leave for future work .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -153,7 +153,7 @@
             ]
         },
         "input": "Furthermore , a number of performance features , largely based on the PARADISE dialogue evaluation scheme ( #TARGET_REF ) , were automatically logged , derived , or manually annotated .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -165,7 +165,7 @@
             ]
         },
         "input": "The goal of the JAVOX toolkit is to speech-enable traditional desktop applications -- this is similar to the goals of the MELISSA project ( #TARGET_REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -177,7 +177,7 @@
             ]
         },
         "input": "It is also possible to focus on non-compositional compounds , a key point in bilingual applications ( #TARGET_REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -189,7 +189,7 @@
             ]
         },
         "input": "This method allows the efficient retrieval of arbitrary length n-grams ( #REF ; #REF ; #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -201,7 +201,7 @@
             ]
         },
         "input": "One way to increase the precision of the mapping process is to impose some linguistic constraints on the sequences such as simple noun-phrase contraints ( #REF ; #TARGET_REF ; hua #REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -213,7 +213,7 @@
             ]
         },
         "input": "The speech and language processing architecture is based on that of the SRI CommandTalk system ( #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -225,7 +225,7 @@
             ]
         },
         "input": "CornmandTalk ( #TARGET_REF ) , Circuit Fix-It Shop ( #REF ) and TRAINS-96 ( #REF ; #REF ) are spoken language systems but they interface to simulation or help facilities rather than semi-autonomous agents .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -237,7 +237,7 @@
             ]
         },
         "input": "We do this with a first-order HMM part-ofspeech tagger ( Merialdo #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -249,7 +249,7 @@
             ]
         },
         "input": "This alignment is done on the basis of both length ( Gale and Church #TARGET_REF ) and a notion of cognateness ( #REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -261,7 +261,7 @@
             ]
         },
         "input": "â¢ Before indexing the text , we process it with Textract ( #REF ; #TARGET_REF ) , which performs lemmatization , and discovers proper names and technical terms .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -273,7 +273,7 @@
             ]
         },
         "input": "100000 word stems of German ( #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -285,7 +285,7 @@
             ]
         },
         "input": "Linguistic preprocessing of text documents is carried out by re-using smes , an information extraction core system for real-world German text processing ( #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -297,7 +297,7 @@
             ]
         },
         "input": "Our implementation of the NP-based QA system uses the Empire noun phrase finder , which is described in detail in #TARGET_REF .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -309,7 +309,7 @@
             ]
         },
         "input": "Although a number of methods for query-dependent text summarization are beginning to be developed and evaluated in a variety of realistic settings ( #TARGET_REF ) , we again propose the use of vector space methods from IR , which can be easily extended to the summarization task ( #REF ) :",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -321,7 +321,7 @@
             ]
         },
         "input": "The Penn Treebank results reported here for the Markov model approach are at least equivalent to those reported for the Maximum Entropy approach in ( #TARGET_REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -333,7 +333,7 @@
             ]
         },
         "input": "According to current tagger comparisons ( #REF ; #REF ) , and according to a comparsion of the results presented here with those in ( #TARGET_REF ) , the Maximum Entropy framework seems to be the only other approach yielding comparable results to the one presented here .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -345,7 +345,7 @@
             ]
         },
         "input": "This confirms that although Kozima 's approach ( #TARGET_REF ) is computationally expensive , it does produce more precise segmentation .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -357,7 +357,7 @@
             ]
         },
         "input": "R98 ( , , , , â ) uses a variant of Kozima 's semantic similarity measure ( #TARGET_REF ) to compute block similarity .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -369,7 +369,7 @@
             ]
         },
         "input": "Although the approach may have potential , the shifting of complex accounting into the unification algorithm is at variance with the findings of #TARGET_REF , who report large speed-ups from the elimination of disjunction processing during unification .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -381,7 +381,7 @@
             ]
         },
         "input": "We perceive that these results can be extended to other language models that properly embed bilexical context-free grammars , as for instance the more general history-based models used in ( #TARGET_REF ) and ( #REF ) .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -393,7 +393,7 @@
             ]
         },
         "input": "We perceive that these results can be extended to other language models that properly embed bilexical context-free grammars , as for instance the more general history-based models used in ( #REF ) and ( #TARGET_REF ) .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -405,7 +405,7 @@
             ]
         },
         "input": "Accuracy is not the best measure to assess segmentation quality , therefore we also conducted experiments using the WindowDiff measure as proposed by #TARGET_REF .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -417,7 +417,7 @@
             ]
         },
         "input": "Although this is only true in cases where y occurs in an upward monotone context ( #TARGET_REF ) , in practice genuine contradictions between y-values sharing a meronym relationship are extremely rare .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -429,7 +429,7 @@
             ]
         },
         "input": "We parse each sentence with the Collins parser ( #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -441,7 +441,7 @@
             ]
         },
         "input": "It is based on the dataset of #TARGET_REF ,9 which consists of 1000 positive and 1000 negative movie reviews , tokenized and divided into 10 folds ( F0 -- F9 ) .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -453,7 +453,7 @@
             ]
         },
         "input": "We collect substring rationales for a sentiment classification task ( #TARGET_REF ) and use them to obtain significant accuracy improvements for each annotator .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -465,7 +465,7 @@
             ]
         },
         "input": "We use the same set of binary features as in previous work on this dataset ( #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -477,7 +477,7 @@
             ]
         },
         "input": "We gather similar words using #TARGET_REFa ) , mining similar verbs from a comparable-sized parsed corpus , and collecting similar nouns from a broader 10 GB corpus of English text .4 We also use #REF 's approach to obtaining web-counts .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -489,7 +489,7 @@
             ]
         },
         "input": "We also made use of the person-name/instance pairs automatically extracted by #TARGET_REF .2This data provides counts for pairs such as \"Edwin Moses , hurdler\" and \"William Farley , industrialist.",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -501,7 +501,7 @@
             ]
         },
         "input": "We study the cases where a 9Recall that even the #TARGET_REF system , built on the world 's largest corpus , achieves only 34 % recall ( Table 1 ) ( with only 48 % of positives and 27 % of all pairs previously observed , but see Footnote 5 ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -513,7 +513,7 @@
             ]
         },
         "input": "#TARGET_REFa ) 's similar word list for eat misses these but includes sleep ( ranked 6 ) and sit ( ranked 14 ) , because these have similar subjects to eat .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -525,7 +525,7 @@
             ]
         },
         "input": "Also , the #TARGET_REF approach will be undefined if the pair is unobserved on the web .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -537,7 +537,7 @@
             ]
         },
         "input": "Our training examples are similar to the data created for pseudodisambiguation , the usual evaluation task for SP models ( #REF ; #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -549,7 +549,7 @@
             ]
         },
         "input": "The advantage of tuning similarity to the application of interest has been shown previously by #TARGET_REF .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -561,7 +561,7 @@
             ]
         },
         "input": "MI was also recently used for inference-rule SPs by #TARGET_REF .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -573,7 +573,7 @@
             ]
         },
         "input": "Our training examples are similar to the data created for pseudodisambiguation , the usual evaluation task for SP models ( #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -585,7 +585,7 @@
             ]
         },
         "input": "Usually , the classes are from WordNet ( #REF ) , although they can also be inferred from clustering ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -597,7 +597,7 @@
             ]
         },
         "input": "Numerous previous pseudodisambiguation evaluations only include arguments that occur between 30 and 3000 times ( #REF ; #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -609,7 +609,7 @@
             ]
         },
         "input": "Selectional Preferences have also been a recent focus of researchers investigating the learning of paraphrases and inference rules ( #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -621,7 +621,7 @@
             ]
         },
         "input": "#REF compared a number of techniques for creating similar-word sets and found that both the Jaccard coefficient and #TARGET_REFa ) 's information-theoretic metric work best .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -633,7 +633,7 @@
             ]
         },
         "input": "We parsed the 3 GB AQUAINT corpus ( #REF ) using Minipar ( #TARGET_REFb ) , and collected verb-object and verb-subject frequencies , building an empirical MI model from this data .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -645,7 +645,7 @@
             ]
         },
         "input": "Numerous previous pseudodisambiguation evaluations only include arguments that occur between 30 and 3000 times ( #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -657,7 +657,7 @@
             ]
         },
         "input": "We measure this association using pointwise Mutual Information ( MI ) ( #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -669,7 +669,7 @@
             ]
         },
         "input": "Thus rather than a single training procedure , we can actually partition the examples by predicate , and train a 1For a fixed verb , MI is proportional to #TARGET_REF 's conditional probability scores for pseudodisambiguation of ( v , n , n â² ) triples : Pr ( v | n ) = Pr ( v , n ) / Pr ( n ) , which was shown to be a better measure of association than co-occurrence frequency f ( v , n ) .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -681,7 +681,7 @@
             ]
         },
         "input": "HOLMES is given the following set of six domainindependent rules , which are similar to the upward monotone rules introduced by ( #TARGET_REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -693,7 +693,7 @@
             ]
         },
         "input": "While many approaches have addressed this problem , our work is most closely related to that of ( #REF ; #TARGET_REF ; #REF ; #REF ) , which convert the inputs into logical forms and then attempt to ` prove ' H from T plus a set of axioms .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -705,7 +705,7 @@
             ]
         },
         "input": "The studies presented by #TARGET_REF and #REF differed in the number of states that they used .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -717,7 +717,7 @@
             ]
         },
         "input": "On small data sets all of the Bayesian estimators strongly outperform EM ( and , to a lesser extent , VB ) with respect to all of our evaluation measures , confirming the results reported in #TARGET_REF .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -729,7 +729,7 @@
             ]
         },
         "input": "The resulting training procedure is analogous to the one presented in ( #REF ) and ( #TARGET_REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -741,7 +741,7 @@
             ]
         },
         "input": "Their kernel is also very time consuming and in their more general sparse setting it requires O ( mn3 ) time and O ( mn2 ) space , where m and n are the number of nodes of the two trees ( m > = n ) ( #TARGET_REF ) .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -753,7 +753,7 @@
             ]
         },
         "input": "Secondly , as ( #TARGET_REF ) show , marginalizing out the different segmentations during decoding leads to improved performance .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -765,7 +765,7 @@
             ]
         },
         "input": "More recently , ( #REF ) has performed a good survey of document categorization ; recent works can also be found in ( #REF ) , ( #TARGET_REF ) , and ( #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -777,7 +777,7 @@
             ]
         },
         "input": "Based on this advise ( Moore and #TARGET_REF ) exclude the latent segmentation variables and opt for a heuristic training procedure .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -789,7 +789,7 @@
             ]
         },
         "input": "Latent variables we wish to consider are an increased number of word classes ; more flexible regions -- see #TARGET_REF on learning a state transition diagram for acoustic regions in phone recognition -- and phonological features and syllable boundaries .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -801,7 +801,7 @@
             ]
         },
         "input": "We would like to use features that look at wide context on the input side , which is inexpensive ( #TARGET_REF ) .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -813,7 +813,7 @@
             ]
         },
         "input": "#TARGET_REF for example discusses a method where a syntactic parse of the text is performed and the context of a word is modeled using dependency triples .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -825,7 +825,7 @@
             ]
         },
         "input": "In this paper , we extend two classes of model adaptation methods ( i.e. , model interpolation and error-driven learning ) , which have been well studied in statistical language modeling for speech and natural language applications ( e.g. , #TARGET_REF ; #REF ; #REF ) , to ranking models for Web search applications .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -837,7 +837,7 @@
             ]
         },
         "input": "As already mentioned in the literature , see for example ( #TARGET_REF ) , knowledge about implicit predicates could be potentially useful for a variety of NLP tasks such as language generation , information extraction , question answering or machine translation .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -849,7 +849,7 @@
             ]
         },
         "input": "Our most accurate product model achieves an F score of 92.5 without the use of discriminative reranking and comes close to the best known numbers on this test set ( #TARGET_REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -861,7 +861,7 @@
             ]
         },
         "input": "Our most accurate single grammar achieves an F score of 91.6 on the WSJ test set , rivaling discriminative reranking approaches ( #TARGET_REF ) and products of latent variable grammars ( #REF ) , despite being a single generative PCFG .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -873,7 +873,7 @@
             ]
         },
         "input": "Our most accurate single grammar achieves an F score of 91.6 on the WSJ test set , rivaling discriminative reranking approaches ( #REF ) and products of latent variable grammars ( #TARGET_REF ) , despite being a single generative PCFG .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -885,7 +885,7 @@
             ]
         },
         "input": "In multi-party discussion people usually mention each other 's name for the purpose of disentanglement ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -897,7 +897,7 @@
             ]
         },
         "input": "We found that the oldest system ( #TARGET_REF ) yielded the best prototypes , and that using these prototypes gave state-of-the-art performance on WSJ , as well as improvements on nearly all of the non-English corpora .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -909,7 +909,7 @@
             ]
         },
         "input": "Others include selectional preferences , transitivity ( #TARGET_REF ) , mutual exclusion , symmetry , etc. .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -921,7 +921,7 @@
             ]
         },
         "input": "Finally , we experiment with a method for combining phrase tables proposed in ( #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -933,7 +933,7 @@
             ]
         },
         "input": "For example , our previous work ( #TARGET_REF ; #REF ) experimented with various techniques for combining a small bi-text for a resource-poor language ( Indonesian or Spanish , pretending that Spanish is resource-poor ) with a much larger bi-text for a related resource-rich language ( Malay or Portuguese ) ; the target language of all bi-texts was English .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -945,7 +945,7 @@
             ]
         },
         "input": "We found the same number using our previous approach ( #TARGET_REF ) , which is roughly equivalent to our core module .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -957,7 +957,7 @@
             ]
         },
         "input": "We take some core ideas from our previous work on mining script information ( #TARGET_REF ) .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -969,7 +969,7 @@
             ]
         },
         "input": "Our own work ( #TARGET_REF ) extends the first idea to paraphrase fragment extraction on monolingual parallel and comparable corpora .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -981,7 +981,7 @@
             ]
         },
         "input": "Provided with the candidate fragment elements , we previously ( #TARGET_REF ) used a chunker3 to finalize the output fragments , in order to follow the linguistic definition of a ( para - ) phrase .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -993,7 +993,7 @@
             ]
         },
         "input": "Similar to ( #TARGET_REFa ) , our summarization system is , which consists of three key components : an initial sentence pre-selection module to select some important sentence candidates ; the above compression model to generate n-best compressions for each sentence ; and then an ILP summarization method to select the best summary sentences from the multiple compressed sentences .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1005,7 +1005,7 @@
             ]
         },
         "input": "Our approach to the problem is more compatible with the empirical evidence we presented in our prior work ( #TARGET_REF ) where we analyzed the output of Chinese to English machine translation and found that there is no correlation between sentence length and MT quality .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1017,7 +1017,7 @@
             ]
         },
         "input": "These automatic transformations are based on linguistic rules ( #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1029,7 +1029,7 @@
             ]
         },
         "input": "We carried out two parallel experiments with two parsers available for Czech , parser I ( #REF ) and parser II ( #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1041,7 +1041,7 @@
             ]
         },
         "input": "To make the dictionary more sensitive to a specific domain, which is in our case the domain of financial news, we created a probabilistic CzechEnglish dictionary by running GIZA + + training ( translation models 1-4 , see #TARGET_REF ) on the training part of the English-Czech WSJ parallel corpus extended by the parallel corpus of entry/translation pairs from the manual dictionary.",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1053,7 +1053,7 @@
             ]
         },
         "input": "For the evaluation of the results we use the BLEU score ( #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1065,7 +1065,7 @@
             ]
         },
         "input": "We also compare the results with the output generated by the statistical translation system GIZA + + / ISI ReWrite Decoder ( #REF ; #TARGET_REF ; #REF ) , trained on the same parallel corpus .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1077,7 +1077,7 @@
             ]
         },
         "input": "We evaluated our translations with IBM 's BLEU evaluation metric ( #TARGET_REF ) , using the same evaluation method and reference retranslations that were used for evaluation at HLT #REF at CLSP ( Haji 6 et al. , 2002 ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1089,7 +1089,7 @@
             ]
         },
         "input": "We performed translation experiments with an implementation of the IBM-4 translation model ( #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1101,7 +1101,7 @@
             ]
         },
         "input": "The maximum entropy approach ( #TARGET_REF ) presents a powerful framework for the combination of several knowledge sources .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1113,7 +1113,7 @@
             ]
         },
         "input": "For descriptions of SMT systems see for example ( #REF ; #TARGET_REF ; #REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1125,7 +1125,7 @@
             ]
         },
         "input": "For an introduction to maximum entropy modeling and training procedures , the reader is referred to the corresponding literature , for instance ( #TARGET_REF ) or ( #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1137,7 +1137,7 @@
             ]
         },
         "input": "For descriptions of SMT systems see for example ( #TARGET_REF ; #REF ; #REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1149,7 +1149,7 @@
             ]
         },
         "input": "Due to using a global model like CRFs , our previous work in ( #REF ; #TARGET_REFc ) reported the best results over the evaluated corpora of Bakeoff-2 until now7 .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1161,7 +1161,7 @@
             ]
         },
         "input": "1 The representation in #TARGET_REF is even more compact than ours for grammars that are not self-embedding .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1173,7 +1173,7 @@
             ]
         },
         "input": "This idea was proposed by Krauwer and des #REF , #REF , and #REF , and was rediscovered by #REF and recently by #TARGET_REF .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1185,7 +1185,7 @@
             ]
         },
         "input": "We rephrase the method of #TARGET_REF as follows : First , we construct the approximating finite automaton according to the unparameterized RTN method above .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1197,7 +1197,7 @@
             ]
         },
         "input": "This method can be generalized , inspired by #TARGET_REF , who derive N-gram probabilities from stochastic context-free grammars .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1209,7 +1209,7 @@
             ]
         },
         "input": "See #TARGET_REF for a variant of this approximation that constructs finite transducers rather than finite automata .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1221,7 +1221,7 @@
             ]
         },
         "input": "A very similar formulation , for another grammar transformation , is given in #TARGET_REF .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1233,7 +1233,7 @@
             ]
         },
         "input": "Typical letter-to-sound rule sets are those described by #REF , #REF , #REF , #REF , and #TARGET_REF .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1245,7 +1245,7 @@
             ]
         },
         "input": "For instance , #TARGET_REF recently wrote : `` To our knowledge , learning algorithms , although promising , have not ( yet ) reached the level of rule sets developed by humans '' ( p. 520 ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1257,7 +1257,7 @@
             ]
         },
         "input": "See also the work of #TARGET_REF , which considers computer-based pronunciation by analogy but does not mention the possible application to text-to-speech synthesis .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1269,7 +1269,7 @@
             ]
         },
         "input": "Consequently , fusion has been applied to a wide variety of pattern recognition and decision theoretic problems -- using a plethora of theories , techniques , and tools -- including some applications in computational linguistics ( e.g. , #TARGET_REF ; van Halteren , Zavrel , and #REF ) and speech technology ( e.g. , #REF ; #REF9 ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1281,7 +1281,7 @@
             ]
         },
         "input": "Many researchers have proposed greedy algorithms for estimating nonprobabilistic word-to-word translation models, also known as translation lexicons (e.g., Catizone, Russell, and #REF; #REF; #REF; #REF; #TARGET_REF 1995; #REF).",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1293,7 +1293,7 @@
             ]
         },
         "input": "Most probabilistic translation model reestimation algorithms published to date are variations on the theme proposed by #TARGET_REFb ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1305,7 +1305,7 @@
             ]
         },
         "input": "Unlike the models proposed by #TARGET_REFb ) , this model is symmetric , because both word bags are generated together from a joint probability distribution .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1317,7 +1317,7 @@
             ]
         },
         "input": "If each word 's translation is treated as a sense tag ( #TARGET_REF ) , then `` translational '' collocations have the unique property that the collocate and the word sense are one and the same !",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1329,7 +1329,7 @@
             ]
         },
         "input": "In informal experiments described elsewhere ( #TARGET_REF ) , I found that the G2 statistic suggested by #REF slightly outperforms 02 .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -1341,7 +1341,7 @@
             ]
         },
         "input": "â¢ cross-language information retrieval ( e.g. , #REF ) , â¢ multilingual document filtering ( e.g. , #REF ) , â¢ computer-assisted language learning ( e.g. , #TARGET_REF ) , â¢ certain machine-assisted translation tools ( e.g. , #REF ; #REFa ) , â¢ concordancing for bilingual lexicography ( e.g. , Catizone , Russell , and #REF ; #REF ) ,",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1353,7 +1353,7 @@
             ]
         },
         "input": "In this situation , #TARGET_REFb , 293 ) recommend `` evaluating the expectations using only a single , probable alignment . ''",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -1365,7 +1365,7 @@
             ]
         },
         "input": "Just as easily , we can model link types that coincide with entries in an on-line bilingual dictionary separately from those that do not ( cfXXX #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1377,7 +1377,7 @@
             ]
         },
         "input": "Until now , translation models have been evaluated either subjectively ( e.g. White and O'#REF ) or using relative metrics , such as perplexity with respect to other models ( #TARGET_REFb ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1389,7 +1389,7 @@
             ]
         },
         "input": "In informal experiments described elsewhere ( #REF ) , I found that the G2 statistic suggested by #TARGET_REF slightly outperforms 02 .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1401,7 +1401,7 @@
             ]
         },
         "input": "There are many plausible representations , such as pairs of trees from synchronous tree adjoining grammars ( #REF ; #REF ; #TARGET_REF ) , lexical conceptual structures ( #REF ) and WordNet synsets ( #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1413,7 +1413,7 @@
             ]
         },
         "input": "â¢ cross-language information retrieval ( e.g. , #TARGET_REF ) , â¢ multilingual document filtering ( e.g. , #REF ) , â¢ computer-assisted language learning ( e.g. , #REF ) , â¢ certain machine-assisted translation tools ( e.g. , #REF ; #REFa ) , â¢ concordancing for bilingual lexicography ( e.g. , Catizone , Russell , and #REF ; #REF ) ,",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1425,7 +1425,7 @@
             ]
         },
         "input": "Many other such cases are described in Danlos 's book ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1437,7 +1437,7 @@
             ]
         },
         "input": "This may be because pipelines have many engineering advantages , and in practice the sort of problems pointed out by Danlos and other pipeline critics do not seem to be a major problem in current applied NLG systems ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1449,7 +1449,7 @@
             ]
         },
         "input": "Despite these arguments , most applied NLG systems use a pipelined architecture ; indeed , a pipeline was used in every one of the systems surveyed by #TARGET_REF and #REF .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1461,7 +1461,7 @@
             ]
         },
         "input": "The lexicon is used to mediate and map between a language-independent domain model and a language-dependent ontology widely used in NLG , the Upper Model ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1473,7 +1473,7 @@
             ]
         },
         "input": "Shortly after the publication of The Sound Pattern of English ( #REF ) , Kornai points out , `` #REF demonstrated that the context-sensitive machinery of SPE ... [ could ] be replaced by a much simpler one , based on finite-state transducers ( FSTs ) ; the same conclusion was reached independently by Kaplan and Kay , whose work remained an underground classic until it was finally published in #TARGET_REF . ''",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1485,7 +1485,7 @@
             ]
         },
         "input": "OT therefore holds out the promise of simplifying grammars , by factoring all complex phenomena into simple surface-level constraints that partially mask one another .1 Whether this is always possible under an appropriate definition of \"simple constraints\" ( e.g. , #TARGET_REFb ) is of course an empirical question .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1497,7 +1497,7 @@
             ]
         },
         "input": "#TARGET_REF report excellent part-of-speech tagging results using a handcrafted approach that is close to OT .3 More speculatively , imagine an OT grammar for stylistic revision of parsed sentences .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1509,7 +1509,7 @@
             ]
         },
         "input": "But typical OT grammars offer much richer finite-state models of left context ( #TARGET_REFa ) than provided by the traditional HMM finite-state topologies .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1521,7 +1521,7 @@
             ]
         },
         "input": "#TARGET_REF use mutual information to identify collocations , a method they claim is reasonably effective for words with a frequency of not less than five .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1533,7 +1533,7 @@
             ]
         },
         "input": "While we have observed reasonable results with both G2 and Fisher 's exact test , we have not yet discussed how these results compare to the results that can be obtained with a technique commonly used in corpus linguistics based on the mutual information ( MI ) measure ( #TARGET_REF ) :",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1545,7 +1545,7 @@
             ]
         },
         "input": "For example , #TARGET_REF proves that Chinese numerals such as wu zhao zhao zhao zhao zhao wu zhao zhao zhao zhao wu zhao zhao zhao wu zhao zhao wu zhao , for the number 5000000000000000005000000000000005000000000005000000005000 , are not context-free , which implies that Chinese is not a context-free language and thus might parse in exponential worst-case time .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1557,7 +1557,7 @@
             ]
         },
         "input": "For example , some similar measures have been used in stylistic experiments in information retrieval on the basis of a robust parser built for information retrieval purposes ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1569,7 +1569,7 @@
             ]
         },
         "input": "Discriminant analysis has been employed by researchers in automatic text genre detection ( #TARGET_REFb ; #REF ) since it offers a simple and robust solution despite the fact that it presupposes normal distributions of the discriminating variables .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1581,7 +1581,7 @@
             ]
         },
         "input": "The algorithm we implemented is inspired by the work of #TARGET_REF on word sense disambiguation .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -1593,7 +1593,7 @@
             ]
         },
         "input": "The changes made were inspired by those described in #TARGET_REF , page 75 ) .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -1605,7 +1605,7 @@
             ]
         },
         "input": "For the joint segmentation and POS-tagging task , we present a novel solution using the framework in this article , and show that it gives comparable accuracies to our previous work ( #TARGET_REFa ) , while being more than an order of magnitude faster .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1617,7 +1617,7 @@
             ]
         },
         "input": "Previously ( #TARGET_REF ) , we assessed the importance of various implicit argument feature groups by conducting feature ablation tests .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -1629,7 +1629,7 @@
             ]
         },
         "input": "This evaluation set-up is an improvement versus the one we previously reported ( #TARGET_REF ) , in which fixed partitions were used for training , development , and testing .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -1641,7 +1641,7 @@
             ]
         },
         "input": "CCGBank ( #TARGET_REF ) is used to train the model .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1653,7 +1653,7 @@
             ]
         },
         "input": "In our previous papers ( #TARGET_REF ; Zhang , Blackwood , and #REF ) , we applied a set of beams to this structure , which makes it similar to the data structure used for phrase-based MT decoding ( #REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1665,7 +1665,7 @@
             ]
         },
         "input": "This was done by MERT optimization ( #TARGET_REF ) towards post-edits under the TER target metric .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1677,7 +1677,7 @@
             ]
         },
         "input": "In practice , perceptron-type algorithms are often applied in a batch learning scenario , i.e. , the algorithm is applied for K epochs to a training sample of size T and then used for prediction on an unseen test set ( #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1689,7 +1689,7 @@
             ]
         },
         "input": "To prepare SMT outputs for post-editing , the creators of the corpus used their own WMT10 system ( #REF ) , based on the Moses phrase-based decoder ( #TARGET_REF ) with dense features .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1701,7 +1701,7 @@
             ]
         },
         "input": "In contrast , a single statistical model allows one to maintain a single table ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1713,7 +1713,7 @@
             ]
         },
         "input": "IGEN uses standard chart generation techniques ( #TARGET_REF ) in its base generator to efficiently produce generation candidates .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1725,7 +1725,7 @@
             ]
         },
         "input": "Notice that it is not possible to use corpus annotation to determine the likelihood of a given property to be chosen , unless we know in advance all of the properties that can be attributed to a given object , as in the case of Jordan 's work on the COCONUT domain ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1737,7 +1737,7 @@
             ]
         },
         "input": "It has been argued that generating such modifiers is not a trivial decision because it interferes with the planning of both local and global coherence ( in the sense of ( #REF ) ) ( #TARGET_REFa ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1749,7 +1749,7 @@
             ]
         },
         "input": "Using WordNet , annotating the sem feature of an adjective involves first choosing the correct sense for the adjective 2Some descriptions of int modifiers can be found in ( #TARGET_REFb ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1761,7 +1761,7 @@
             ]
         },
         "input": "In addition to a referring function , noun phrases ( NP ) can also serve communicative goals such as providing new information about the referent and expressing the speaker 's emotional attitude towards the referent ( #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1773,7 +1773,7 @@
             ]
         },
         "input": "Table 1 gives the interpretations of eight adjective-noun combinations discussed in #TARGET_REF and #REF .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1785,7 +1785,7 @@
             ]
         },
         "input": "Adjectives , more than other categories , are a striking example of regular polysemy since they are able to take on different meanings depending on their context , viz. , the noun or noun class they modify ( see #TARGET_REF and the references therein ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1797,7 +1797,7 @@
             ]
         },
         "input": "We chose the adjectives as follows : we first compiled a list of all the polysemous adjectives mentioned in the lexical semantics literature ( #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1809,7 +1809,7 @@
             ]
         },
         "input": "#TARGET_REF avoids enumerating the various senses for adjectives like fast by exploiting the semantics of the nouns they modify .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1821,7 +1821,7 @@
             ]
         },
         "input": "We have presented an ensemble approach to word sense disambiguation ( #TARGET_REF ) where multiple Naive Bayesian classifiers , each based on co -- occurrence features from varying sized windows of context , is shown to perform well on the widely studied nouns interest and line .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1833,7 +1833,7 @@
             ]
         },
         "input": "See ( #TARGET_REF ) for a discussion .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1845,7 +1845,7 @@
             ]
         },
         "input": "Other definitions of predicates may be found in ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1857,7 +1857,7 @@
             ]
         },
         "input": "This appeared to solve the problem , and the results presented later for the average degree of generalisation do not show an over-generalisation compared with those given in #TARGET_REF .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1869,7 +1869,7 @@
             ]
         },
         "input": "The task we used to compare different generalisation techniques is similar to that used by #TARGET_REF and #REF .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1881,7 +1881,7 @@
             ]
         },
         "input": "The problem with this approach is that any threshold is , to some extent , arbitrary , and there is evidence to suggest that , for some tasks , low counts are important ( #TARGET_REF ) .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -1893,7 +1893,7 @@
             ]
         },
         "input": "However , #TARGET_REF claims that the log-likelihood chisquared statistic ( G2 ) is more appropriate for corpus-based NLP .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -1905,7 +1905,7 @@
             ]
         },
         "input": "The task we used to compare different generalisation techniques is similar to that used by #REF and #TARGET_REF .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1917,7 +1917,7 @@
             ]
         },
         "input": "The X2 statistic is performing at least as well as G2 , throwing doubt on the claim by #TARGET_REF that the G2 statistic is better suited for use in corpus-based NLP .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1929,7 +1929,7 @@
             ]
         },
         "input": "The system is in the form of an agenda-driven chart-based parser whose foundation is similar to previous formalizations of Chomsky 's Minimalist Program ( #TARGET_REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1941,7 +1941,7 @@
             ]
         },
         "input": "These observations and this line of reasoning has not escaped the attention of theoretical linguists : #TARGET_REF propose that argument structure is , in fact , encoded syntactically .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1953,7 +1953,7 @@
             ]
         },
         "input": "It projects a functional head , voice ( #TARGET_REF ) , whose specifier is the external argument .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -1965,7 +1965,7 @@
             ]
         },
         "input": "The system is in the form of an agenda-driven chart-based parser whose foundation is similar to previous formalizations of Chomsky 's Minimalist Program ( #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -1977,7 +1977,7 @@
             ]
         },
         "input": "In this paper , I present a computational implementation of Distributed Morphology ( #TARGET_REF ) , a non-lexicalist linguistic theory that erases the distinction between syntactic derivation and morphological derivation .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -1989,7 +1989,7 @@
             ]
         },
         "input": "This approach has its roots in Fillmore 's Case #REF , and serves as the foundation for two current large-scale semantic annotation projects : FrameNet ( #REF ) and PropBank ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2001,7 +2001,7 @@
             ]
         },
         "input": "In ( #TARGET_REF ) , I present evidence from Mandarin Chinese that this analysis is on the right track .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -2013,7 +2013,7 @@
             ]
         },
         "input": "Due to advances in statistical syntactic parsing techniques ( #REF ; #TARGET_REF ) , attention has recently shifted towards the harder question of analyzing the meaning of natural language sentences .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2025,7 +2025,7 @@
             ]
         },
         "input": "There is a general consensus among theoretical linguists that the proper representation of verbal argument structure is event structure -- representations grounded in a theory of events that decompose semantic roles in terms of primitive predicates representing concepts such as causality and inchoativity ( #REF ; #REF ; #TARGET_REFb ; Rappaport #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2037,7 +2037,7 @@
             ]
         },
         "input": "With a minimal set of features and a small number of lexical entries , #REF has successfully modeled many of the argument alternations described by #REF using a #TARGET_REF style analysis .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2049,7 +2049,7 @@
             ]
         },
         "input": "#TARGET_REF observes that accomplishments differ from achievements only in terms of event duration , which is often a question of granularity .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2061,7 +2061,7 @@
             ]
         },
         "input": "With a minimal set of features and a small number of lexical entries , #REF has successfully modeled many of the argument alternations described by #TARGET_REF using a #REF style analysis .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2073,7 +2073,7 @@
             ]
         },
         "input": "This framework , where the `` semantic load '' is spread more evenly throughout the lexicon to lexical categories not typically thought to bear semantic content , is essentially the model advocated by #TARGET_REFa ) , among many others .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2085,7 +2085,7 @@
             ]
         },
         "input": "The system is in the form of an agenda-driven chart-based parser whose foundation is similar to previous formalizations of Chomsky 's Minimalist Program ( #REF ; #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -2097,7 +2097,7 @@
             ]
         },
         "input": "Here , I adopt the model proposed by #TARGET_REF and decompose lexical verbs into verbalizing heads and verbal roots .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -2109,7 +2109,7 @@
             ]
         },
         "input": "This approach has its roots in Fillmore 's Case #REF , and serves as the foundation for two current large-scale semantic annotation projects : FrameNet ( #TARGET_REF ) and PropBank ( #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2121,7 +2121,7 @@
             ]
         },
         "input": "There is a general consensus among theoretical linguists that the proper representation of verbal argument structure is event structure -- representations grounded in a theory of events that decompose semantic roles in terms of primitive predicates representing concepts such as causality and inchoativity ( #TARGET_REF ; #REF ; #REFb ; Rappaport #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2133,7 +2133,7 @@
             ]
         },
         "input": "Due to advances in statistical syntactic parsing techniques ( #TARGET_REF ; #REF ) , attention has recently shifted towards the harder question of analyzing the meaning of natural language sentences .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2145,7 +2145,7 @@
             ]
         },
         "input": "There is a general consensus among theoretical linguists that the proper representation of verbal argument structure is event structure -- representations grounded in a theory of events that decompose semantic roles in terms of primitive predicates representing concepts such as causality and inchoativity ( #REF ; #TARGET_REF ; #REFb ; Rappaport #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2157,7 +2157,7 @@
             ]
         },
         "input": "#TARGET_REF has developed an agenda-driven chart parser for the feature-driven formalism described above ; please refer to his paper for a description of the parsing algorithm .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -2169,7 +2169,7 @@
             ]
         },
         "input": "The typical solution to the redundancy problem is to group verbs according to their argument realization patterns ( #TARGET_REF ) , possibly arranged in an inheritance hierarchy .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -2181,7 +2181,7 @@
             ]
         },
         "input": "There is a general consensus among theoretical linguists that the proper representation of verbal argument structure is event structure -- representations grounded in a theory of events that decompose semantic roles in terms of primitive predicates representing concepts such as causality and inchoativity ( #REF ; #REF ; #REFb ; Rappaport #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2193,7 +2193,7 @@
             ]
         },
         "input": "A more recent approach , advocated by Rappaport #REF , describes a basic set of event templates corresponding to Vendler 's event classes ( #TARGET_REF ) : ( 3 ) a. [ x ACT <MANNER> ] ( activity ) b. [ x <STATE> ] ( state ) c. [ BECOME [ x <STATE> ] ] ( achievement ) d. [ x CAUSE [ BECOME [ x <STATE> ] ] ] ( accomplishment )",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2205,7 +2205,7 @@
             ]
         },
         "input": "#TARGET_REFb ) and Topkara et al. ( 2006a ) attained the embedding capacity of 0.5 bits per sentence with the syntactic transformation method .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2217,7 +2217,7 @@
             ]
         },
         "input": "The first lexical substitution method was proposed by #TARGET_REF .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2229,7 +2229,7 @@
             ]
         },
         "input": "#REF , #REF , #REF , #TARGET_REF and Topkara et al. ( 2006a ) all belong to the syntactic transformation category .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2241,7 +2241,7 @@
             ]
         },
         "input": "Later works , such as #TARGET_REFa ) , #REF , #REF and Topkara et al. ( 2006b ) , further made use of part-ofspeech taggers and electronic dictionaries , such as WordNet and VerbNet , to increase the robustness of the method .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2253,7 +2253,7 @@
             ]
         },
         "input": "Later works , such as Atallah et al. ( 2001a ) , #REF , #REF and #TARGET_REFb ) , further made use of part-ofspeech taggers and electronic dictionaries , such as WordNet and VerbNet , to increase the robustness of the method .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2265,7 +2265,7 @@
             ]
         },
         "input": "#REF , #REF , #TARGET_REF , #REF and Topkara et al. ( 2006a ) all belong to the syntactic transformation category .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2277,7 +2277,7 @@
             ]
         },
         "input": "Later works , such as Atallah et al. ( 2001a ) , #TARGET_REF , #REF and Topkara et al. ( 2006b ) , further made use of part-ofspeech taggers and electronic dictionaries , such as WordNet and VerbNet , to increase the robustness of the method .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2289,7 +2289,7 @@
             ]
         },
         "input": "The Google n-gram data was collected by Google Research for statistical language modelling , and has been used for many tasks such as lexical disambiguation ( #TARGET_REF ) , and contains English n-grams and their observed frequency counts , for counts of at least 40 .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2301,7 +2301,7 @@
             ]
         },
         "input": "Steganography is concerned with hiding information in some cover medium , by manipulating properties of the medium in such a way that the hidden information is not easily detectable by an observer ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2313,7 +2313,7 @@
             ]
         },
         "input": "#REF , #REF , #REF , #REF and #TARGET_REFa ) all belong to the syntactic transformation category .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2325,7 +2325,7 @@
             ]
         },
         "input": "#TARGET_REF aimed to embed information by exploiting the linguistic phenomenon of presupposition , with the idea that some presuppositional information can be removed without changing the meaning of a sentence .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2337,7 +2337,7 @@
             ]
         },
         "input": "#TARGET_REF also note that the applicability of paraphrases is strongly influenced by context .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2349,7 +2349,7 @@
             ]
         },
         "input": "The paraphrase dictionary that we use was generated for us by Chris Callison-Burch , using the technique described in #TARGET_REF , which exploits a parallel corpus and methods developed for statistical machine translation .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -2361,7 +2361,7 @@
             ]
         },
         "input": "#TARGET_REF , #REF , #REF , #REF and Topkara et al. ( 2006a ) all belong to the syntactic transformation category .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2373,7 +2373,7 @@
             ]
         },
         "input": "Note that we are concerned with transformations which are linguistic in nature , rather than dealing with superficial properties of the text , e.g. the amount of white space between words ( #TARGET_REF ) .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -2385,7 +2385,7 @@
             ]
         },
         "input": "Our proposed method is based on the automatically acquired paraphrase dictionary described in #TARGET_REF , in which the application of paraphrases from the dictionary encodes secret bits .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -2397,7 +2397,7 @@
             ]
         },
         "input": "However , the literature on Linguistic Steganography , in which linguistic properties of a text are modified to hide information , is small compared with other media ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2409,7 +2409,7 @@
             ]
         },
         "input": "We use the #TARGET_REF CCG parser to analyse the sentence before and after paraphrasing .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -2421,7 +2421,7 @@
             ]
         },
         "input": "#REF , #TARGET_REF , #REF , #REF and Topkara et al. ( 2006a ) all belong to the syntactic transformation category .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2433,7 +2433,7 @@
             ]
         },
         "input": "In our previous work ( #TARGET_REF ; #REF ) , we applied our approach to tokenized Arabic and our DA-MSA transfer component used feature transfer rules only .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -2445,7 +2445,7 @@
             ]
         },
         "input": "The parallel corpus is word-aligned using GIZA + + ( #TARGET_REF ) .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -2457,7 +2457,7 @@
             ]
         },
         "input": "This is a similar conclusion to our previous work in #TARGET_REF .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -2469,7 +2469,7 @@
             ]
         },
         "input": "We use the open-source Moses toolkit ( #TARGET_REF ) to build a phrase-based SMT system trained on mostly MSA data ( 64M words on the Arabic side ) obtained from several LDC corpora including some limited DA data .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -2481,7 +2481,7 @@
             ]
         },
         "input": "Few approaches to parsing have tried to handle disfluent utterances ( notable exceptions are Core & #REF ; #TARGET_REF ; Nakatani & #REF ; Shriberg , Bear , & #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2493,7 +2493,7 @@
             ]
         },
         "input": "Similar to our previous work ( #REFb ) , we used the supervised WSD approach described in ( #TARGET_REF ) for our experiments , using the naive Bayes algorithm as our classifier .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -2505,7 +2505,7 @@
             ]
         },
         "input": "We chose to follow #TARGET_REF and split the sentences evenly to facilitate further comparison .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -2517,7 +2517,7 @@
             ]
         },
         "input": "We built a two-stage baseline system , using the perceptron segmentation model from our previous work ( #TARGET_REF ) and the perceptron POS tagging model from #REF .",
-        "output": "{\"label\": \"COMPARE_CONTRAST\"}"
+        "output": "{\"label\": [\"COMPARE_CONTRAST\"]}"
     },
     {
         "gold": {
@@ -2529,7 +2529,7 @@
             ]
         },
         "input": "Our HDP extension is also inspired from the Bayesian model proposed by #TARGET_REF .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -2541,7 +2541,7 @@
             ]
         },
         "input": "These features are carefully designed to reduce the data sparseness problem and some of them are inspired by previous work ( #REF ; #REF ; #TARGET_REF ; #REF ; #REF ; #REF ; #REF ) : 1 .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -2553,7 +2553,7 @@
             ]
         },
         "input": "These features are carefully designed to reduce the data sparseness problem and some of them are inspired by previous work ( #REF ; #TARGET_REF ; #REF ; #REF ; #REF ; #REF ; #REF ) : 1 .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -2565,7 +2565,7 @@
             ]
         },
         "input": "More recently , an alignment selection approach was proposed in ( #TARGET_REF ) , which computes confidence scores for each link and prunes the links from multiple sets of alignments using a hand-picked threshold .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -2577,7 +2577,7 @@
             ]
         },
         "input": "Inspired by ( #TARGET_REF ) , we split one phrase type into several subsymbols , which contain category information of current constituent 's parent .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -2589,7 +2589,7 @@
             ]
         },
         "input": "The feature of head word trigger which we apply to the log-linear model is motivated by the trigger-based approach ( #TARGET_REF ) .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -2601,7 +2601,7 @@
             ]
         },
         "input": "Previous sentiment-analysis work in different domains has considered inter-document similarity (#REF; #REF; #REF) or explicit inter-document references in the form of hyperlinks ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2613,7 +2613,7 @@
             ]
         },
         "input": "There has also been work focused upon determining the political leaning (e.g., \"liberal\" vs. \"conservative\") of a document or author , where most previously-proposed methods make no direct use of relationships between the documents to be classified (the \"unlabeled\" texts) ( #TARGET_REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2625,7 +2625,7 @@
             ]
         },
         "input": "Recently , several alternative , often quite sophisticated approaches to collective classification have been proposed ( #REF ; #REF ; #REF ; #REF ; #TARGET_REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2637,7 +2637,7 @@
             ]
         },
         "input": "There has also been work focused upon determining the political leaning (e.g., \"liberal\" vs. \"conservative\") of a document or author , where most previously-proposed methods make no direct use of relationships between the documents to be classified (the \"unlabeled\" texts) ( #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2649,7 +2649,7 @@
             ]
         },
         "input": "Notable early papers on graph-based semisupervised learning include #REF , #REF , #REF , and #TARGET_REF .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2661,7 +2661,7 @@
             ]
         },
         "input": "Recently , several alternative , often quite sophisticated approaches to collective classification have been proposed ( #TARGET_REF ; #REF ; #REF ; #REF ; #REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2673,7 +2673,7 @@
             ]
         },
         "input": "More sophisticated approaches have been proposed ( #TARGET_REF ) , including an extension that , in an interesting reversal of our problem , makes use of sentimentpolarity indicators within speech segments ( #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2685,7 +2685,7 @@
             ]
         },
         "input": "Also relevant is work on the general problems of dialog-act tagging ( #REF ) , citation analysis ( #REF ) , and computational rhetorical analysis ( #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2697,7 +2697,7 @@
             ]
         },
         "input": "Politically-oriented text Sentiment analysis has specifically been proposed as a key enabling technology in eRulemaking , allowing the automatic analysis of the opinions that people submit ( #REF ; #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2709,7 +2709,7 @@
             ]
         },
         "input": "For example, we may find textual4 evidence of a high likelihood of agreement be-tween two speakers, such as explicit assertions (�I second that!�) or quotation of messages in emails or postings (see #REF but cfXXX #TARGET_REF.",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2721,7 +2721,7 @@
             ]
         },
         "input": "There has also been work focused upon determining the political leaning (e.g., \"liberal\" vs. \"conservative\") of a document or author, where most previously-proposed methods make no direct use of relationships between the documents to be classified (the \"unlabeled\" texts) ( #REF ; #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2733,7 +2733,7 @@
             ]
         },
         "input": "Fol- lowing standard practice in sentiment analysis ( #TARGET_REF ) , the input to SVMlight con- sisted of normalized presence-of-feature (rather than frequency-of-feature) vectors.",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -2745,7 +2745,7 @@
             ]
         },
         "input": "Others have applied the NLP technologies of near-duplicate detection and topic-based text categorization to politically oriented text ( #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2757,7 +2757,7 @@
             ]
         },
         "input": "Recently , several alternative , often quite sophisticated approaches to collective classification have been proposed ( #REF ; #REF ; #REF ; #REF ; #REF ; #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2769,7 +2769,7 @@
             ]
         },
         "input": "In particular , since we treat each individual speech within a debate as a single `` document '' , we are considering a version of document-level sentiment-polarity classification , namely , automatically distinguishing between positive and negative documents ( #REF ; #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2781,7 +2781,7 @@
             ]
         },
         "input": "Previous sentiment-analysis work in different domains has considered inter-document similarity ( #TARGET_REF ; #REF ; #REF ) or explicit inter-document references in the form of hyper- links (#REF).",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2793,7 +2793,7 @@
             ]
         },
         "input": "Recently , several alternative , often quite sophisticated approaches to collective classification have been proposed ( #REF ; #TARGET_REF ; #REF ; #REF ; #REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2805,7 +2805,7 @@
             ]
         },
         "input": "Default parameters were used , although experimentation with different parameter settings is an important direction for future work ( #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -2817,7 +2817,7 @@
             ]
         },
         "input": "Also relevant is work on the general problems of dialog-act tagging ( #REF ) , citation analysis ( #TARGET_REF ) , and computational rhetorical analysis ( #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2829,7 +2829,7 @@
             ]
         },
         "input": "A few others incorporate various measures of inter-document similarity between the texts to be labeled ( #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2841,7 +2841,7 @@
             ]
         },
         "input": "A few others incorporate various measures of inter-document similarity between the texts to be labeled ( #TARGET_REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2853,7 +2853,7 @@
             ]
         },
         "input": "A few others incorporate various measures of inter-document similarity between the texts to be labeled ( #REF ; #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2865,7 +2865,7 @@
             ]
         },
         "input": "Recently , several alternative , often quite sophisticated approaches to collective classification have been proposed ( #REF ; #REF ; #REF ; #REF ; #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2877,7 +2877,7 @@
             ]
         },
         "input": "More sophisticated approaches have been proposed ( #REF ) , including an extension that , in an interesting reversal of our problem , makes use of sentimentpolarity indicators within speech segments ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2889,7 +2889,7 @@
             ]
         },
         "input": "As has been previously observed and exploited in the NLP literature ( #TARGET_REF ; #REF ; #REF ) , the above optimization function , unlike many others that have been proposed for graph or set partitioning , can be solved exactly in an provably efficient manner via methods for finding minimum cuts in graphs .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -2901,7 +2901,7 @@
             ]
         },
         "input": "Recently , several alternative , often quite sophisticated approaches to collective classification have been proposed ( #REF ; #REF ; #REF ; #TARGET_REF ; #REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2913,7 +2913,7 @@
             ]
         },
         "input": "In the United States , for example , governmental bodies are providing and soliciting political documents via the Internet , with lofty goals in mind : electronic rulemaking ( eRulemaking ) initiatives involving the `` electronic collection , distribution , synthesis , and analysis of public commentary in the regulatory rulemaking process '' , may `` [ alter ] the citizen-government relationship '' ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2925,7 +2925,7 @@
             ]
         },
         "input": "In particular, since we treat each individual speech within a debate as a single \"document\", we are considering a version of document-level sentiment-polarity classification , namely , automatically distinguishing between positive and negative documents ( #TARGET_REF ; #REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2937,7 +2937,7 @@
             ]
         },
         "input": "#TARGET_REF maintains a survey of this area .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2949,7 +2949,7 @@
             ]
         },
         "input": "Previous sentiment-analysis work in different domains has considered inter-document similarity ( #REF ; #TARGET_REF ; #REF ) or explicit inter-document references in the form of hyperlinks (#REF).",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2961,7 +2961,7 @@
             ]
         },
         "input": "Task properties Determining whether or not a speaker supports a proposal falls within the realm of sentiment analysis , an extremely active research area devoted to the computational treatment of subjective or opinion-oriented language ( early work includes #REF , #REF , #TARGET_REF , and #REF ; see #REF for an active bibliography ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -2973,7 +2973,7 @@
             ]
         },
         "input": "As has been previously observed and exploited in the NLP literature ( #REF ; #TARGET_REF ; #REF ) , the above optimization function , unlike many others that have been proposed for graph or set partitioning , can be solved exactly in an provably efficient manner via methods for finding minimum cuts in graphs .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -2985,7 +2985,7 @@
             ]
         },
         "input": "Our classification framework , directly inspired by #TARGET_REF , integrates both perspectives , optimizing its labeling of speech segments based on both individual speech-segment classification scores and preferences for groups of speech segments to receive the same label .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -2997,7 +2997,7 @@
             ]
         },
         "input": "Others have applied the NLP technologies of near-duplicate detection and topic-based text categorization to politically oriented text ( #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3009,7 +3009,7 @@
             ]
         },
         "input": "Task properties Determining whether or not a speaker supports a proposal falls within the realm of sentiment analysis , an extremely active research area devoted to the computational treatment of subjective or opinion-oriented language ( early work includes #REF , #REF , #REF , and #TARGET_REF ; see #REF for an active bibliography ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3021,7 +3021,7 @@
             ]
         },
         "input": "Notable early papers on graph-based semisupervised learning include #TARGET_REF , #REF , #REF , and #REF .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3033,7 +3033,7 @@
             ]
         },
         "input": "Relationships between the unlabeled items #TARGET_REF consider sequential relations between different types of emails ( e.g. , between requests and satisfactions thereof ) to classify messages , and thus also explicitly exploit the structure of conversations .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3045,7 +3045,7 @@
             ]
         },
         "input": "People are much more likely to consult such evaluative statements than the actual text of a bill or law under discussion , given the dense nature of legislative language and the fact that ( U.S. ) bills often reach several hundred pages in length ( #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3057,7 +3057,7 @@
             ]
         },
         "input": "As has been previously observed and exploited in the NLP literature ( #REF ; #REF ; #TARGET_REF ) , the above optimization function , unlike many others that have been proposed for graph or set partitioning , can be solved exactly in an provably efficient manner via methods for finding minimum cuts in graphs .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -3069,7 +3069,7 @@
             ]
         },
         "input": "In particular , since we treat each individual speech within a debate as a single `` document '' , we are considering a version of document-level sentiment-polarity classification , namely , automatically distinguishing between positive and negative documents ( #REF ; #TARGET_REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3081,7 +3081,7 @@
             ]
         },
         "input": "Notable early papers on graph-based semisupervised learning include #REF , #TARGET_REF , #REF , and #REF .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3093,7 +3093,7 @@
             ]
         },
         "input": "In particular , since we treat each individual speech within a debate as a single `` document '' , we are considering a version of document-level sentiment-polarity classification , namely , automatically distinguishing between positive and negative documents ( #REF ; #REF ; #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3105,7 +3105,7 @@
             ]
         },
         "input": "Politically-oriented text Sentiment analysis has specifically been proposed as a key enabling technology in eRulemaking , allowing the automatic analysis of the opinions that people submit ( #REF ; #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3117,7 +3117,7 @@
             ]
         },
         "input": "Task properties Determining whether or not a speaker supports a proposal falls within the realm of sentiment analysis , an extremely active research area devoted to the computational treatment of subjective or opinion-oriented language ( early work includes #TARGET_REF , #REF , #REF , and #REF ; see #REF for an active bibliography ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3129,7 +3129,7 @@
             ]
         },
         "input": "Recently , several alternative , often quite sophisticated approaches to collective classification have been proposed ( #REF ; #REF ; #TARGET_REF ; #REF ; #REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3141,7 +3141,7 @@
             ]
         },
         "input": "Notable early papers on graph-based semisupervised learning include #REF , #REF , #TARGET_REF , and #REF .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3153,7 +3153,7 @@
             ]
         },
         "input": "Also relevant is work on the general problems of dialog-act tagging ( #REF ) , citation analysis ( #REF ) , and computational rhetorical analysis ( #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3165,7 +3165,7 @@
             ]
         },
         "input": "An exception is #TARGET_REF , who experimented with determining the political orientation of websites essentially by classifying the concatenation of all the documents found on that site .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3177,7 +3177,7 @@
             ]
         },
         "input": "Default parameters were used , although experimentation with different parameter settings is an important direction for future work ( #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -3189,7 +3189,7 @@
             ]
         },
         "input": "Politically-oriented text Sentiment analysis has specifically been proposed as a key enabling technology in eRulemaking , allowing the automatic analysis of the opinions that people submit ( #TARGET_REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3201,7 +3201,7 @@
             ]
         },
         "input": "For example, we may find textual4 evidence of a high likelihood of agreement between two speakers, such as explicit assertions (�I second that!�) or quotation of messages in emails or postings ( see #TARGET_REF but cfXXX #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3213,7 +3213,7 @@
             ]
         },
         "input": "Previous sentiment-analysis work in different domains has considered inter-document similarity ( #REF ; #REF ; #TARGET_REF ) or explicit inter-document references in the form of hyperlinks (#REF).",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3225,7 +3225,7 @@
             ]
         },
         "input": "Task properties Determining whether or not a speaker supports a proposal falls within the realm of sentiment analysis , an extremely active research area devoted to the computational treatment of subjective or opinion-oriented language ( early work includes #REF , #TARGET_REF , #REF , and #REF ; see #REF for an active bibliography ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3237,7 +3237,7 @@
             ]
         },
         "input": "Our plan is to implement a windowed or moving-average version of BLEU as in ( #TARGET_REF ) .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -3249,7 +3249,7 @@
             ]
         },
         "input": "The flexible architecture we have presented enables interesting future research : ( i ) a straightforward improvement is the use of lexical similarity to reduce data sparseness , e.g. ( #TARGET_REF ; #REF ; #REF ) .",
-        "output": "{\"label\": \"BACKGROUND\"}"
+        "output": "{\"label\": [\"BACKGROUND\"]}"
     },
     {
         "gold": {
@@ -3261,7 +3261,7 @@
             ]
         },
         "input": "This contrasts with the findings described in #TARGET_REF where significant improvements could be achieved by increasing the number of source languages .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -3273,7 +3273,7 @@
             ]
         },
         "input": "As suggested in #TARGET_REF this can be done by looking up the ranks of each of the four given words ( i.e. the words occurring in a particular word equation ) within the association vector of a translation candidate , and by multiplying these ranks .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -3285,7 +3285,7 @@
             ]
         },
         "input": "Whereas #TARGET_REF dealt only with an English corpus , the current work shows that this methodology is applicable to a wide range of languages and corpora .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -3297,7 +3297,7 @@
             ]
         },
         "input": "For automatically extracting these surface level mappings we will draw on the approach to learning paraphrases from a corpus that is described in #TARGET_REF .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -3309,7 +3309,7 @@
             ]
         },
         "input": "A possible future direction would be to compare the query string to retrieved results using a method similar to that of #TARGET_REF .",
-        "output": "{\"label\": \"MOTIVATION\"}"
+        "output": "{\"label\": [\"MOTIVATION\"]}"
     },
     {
         "gold": {
@@ -3321,7 +3321,7 @@
             ]
         },
         "input": "The article classifier is a discriminative model that draws on the state-of-the-art approach described in #TARGET_REF .",
-        "output": "{\"label\": \"FUTURE\"}"
+        "output": "{\"label\": [\"FUTURE\"]}"
     },
     {
         "gold": {
@@ -3333,7 +3333,7 @@
             ]
         },
         "input": "The choice of learning algorithm for each classifier is motivated by earlier findings showing that discriminative classifiers outperform other machine-learning methods on error correction tasks ( #TARGET_REF ) .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -3345,7 +3345,7 @@
             ]
         },
         "input": "Another line of research that is correlated with ours is recognition of agreement/disagreement ( #REF ; #REF ; #REF ; #REF ; #TARGET_REF ; #REF ) and classification of stances ( #REF ; #REF ) in online forums .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -3357,7 +3357,7 @@
             ]
         },
         "input": "In addition , we consider several types of lexical features ( LexF ) inspired by previous work on agreement and disagreement ( #REF ; #TARGET_REF ) .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     },
     {
         "gold": {
@@ -3369,7 +3369,7 @@
             ]
         },
         "input": "Another line of research that is correlated with ours is recognition of agreement/disagreement ( #TARGET_REF ; #REF ; #REF ; #REF ; #REF ; #REF ) and classification of stances ( #REF ; #REF ) in online forums .",
-        "output": "{\"label\": \"USE\"}"
+        "output": "{\"label\": [\"USE\"]}"
     },
     {
         "gold": {
@@ -3381,6 +3381,6 @@
             ]
         },
         "input": "In addition , we consider several types of lexical features ( LexF ) inspired by previous work on agreement and disagreement ( #TARGET_REF ; #REF ) .",
-        "output": "{\"label\": \"EXTENSION\"}"
+        "output": "{\"label\": [\"EXTENSION\"]}"
     }
 ]
